@@ -18,3 +18,6 @@ microservices:
     endpoints:
       endpoint:
         uri: http://payment-service/doPayment
+        
+teste:
+  texto: testando
